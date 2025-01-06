@@ -1,0 +1,13 @@
+Number of projects available: 1000
+Available employee work weeks: 10
+Number of projects chosen: 9
+Total profit: 3029
+Project306 2 455
+Project397 1 321
+Project399 1 351
+Project414 1 266
+Project461 1 319
+Project531 1 382
+Project713 1 367
+Project738 1 252
+Project962 1 316
